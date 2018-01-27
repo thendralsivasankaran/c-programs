@@ -24,3 +24,8 @@ b[k]='\0';
 printf("\n The second string is: %s",b);
 getch();
 }
+OUTPUT
+Enter two strings
+sivasankaran
+santhi
+The second string is:th
